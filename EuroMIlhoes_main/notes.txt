@@ -1,0 +1,16 @@
+::: Menus ::::
+
+menu login - Feito 
+menu admin - Feito
+menu ver key - Feito
+menu jogo - 
+
+::: script :::
+
+script login - Feito
+script gerador - Feito
+script Jogo -
+
+::: Ficheiros :::
+
+Tratamento de Ficheiros - Feito
